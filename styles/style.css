@@ -139,7 +139,7 @@ ol {
 }
 
 .content__card-link_current {
-  background: lightgray 50% / cover no-repeat;
+  background-color:  #545050;
 }
 
 .content__card-link:focus {
