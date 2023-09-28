@@ -1,1 +1,1 @@
-git@github.com:EvgenGll/posmotri_v_okno.git
+https://github.com/EvgenGll/posmotri_v_okno.git
